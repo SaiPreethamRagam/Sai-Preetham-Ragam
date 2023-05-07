@@ -1,7 +1,5 @@
 - 👋 Hi, I’m SaiPreetham Ragam
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ragamsaipreetham@gmail.com
 
 <!---
