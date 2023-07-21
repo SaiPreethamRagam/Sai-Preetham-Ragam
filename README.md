@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SaiPreetham Ragam
+- 👋 Hi, I’m Sai Preetham Ragam
 - 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me ragamsaipreetham@gmail.com
 
